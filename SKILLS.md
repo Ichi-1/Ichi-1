@@ -9,7 +9,7 @@
 | 🟩 value             | 🟩 if                 | 🟩 recursion          | 🟩 array            | 🟦 refactoring       |
 | 🟩 identifier        | 🟩 loops              | 🟩 function           | 🟩 instance         | 🟦 code review       |
 | 🟩 variable          | 🟩 assignment         | 🟩 return             | 🟩 object           | 🟦 antipatterns      |
-| 🟩 constant          | 🟨 prototype          | 🟦 signature          | 🟩 collection       | 🟩 paradigm          |
+| 🟩 constant          | 🟩 prototype          | 🟦 signature          | 🟩 collection       | 🟩 paradigm          |
 | 🟦 scalar            | 🟩 class              | 🟩 argument           | 🟩 hash table       | 🟩 algorithm         |
 | 🟦 literal           | 🟩 while              | 🟩 parameter          | 🟦 linked list      | 🟦 magic numbers     |
 | 🟩 expression        | 🟩 do..while          | 🟩 pure function      | 🟩 queue            | 🟦 hardcode          |
@@ -17,7 +17,7 @@
 | 🟩 type              | 🟩 for..in            | 🟩 side effects       | 🟦 deque            | 🟦 decomposition     |
 | 🟩 primitive types   | 🟨 for..of            | 🟩 closure            | 🟦 serialization    | ⬜️ spaghetti         |
 | 🟩 reference         | 🟨 for await          | 🟦 partial            | 🟦 mixin, extend    | ⬜️ silver bullet     |
-| 🟦 flag              | 🟦 throw              | ⬜️ curry              | 🟨 iterator         | ⬜️ not invented here |
+| 🟦 flag              | 🟩 throw              | ⬜️ curry              | 🟨 iterator         | ⬜️ not invented here |
 | 🟩 lexical scope     | 🟩 try..catch         | 🟦 chaining           | 🟨 typed arrays     | 🟦 dead code         |
 | 🟩 code block        | 🟩 equality operators | 🟩 higher order       | 🟨 Map              | 🟦 unreachable code  |
 | 🟩 Object            | 🟩 logical operators  | 🟦 callback           | 🟨 Set              | 🟦 duplicate code    |
@@ -39,7 +39,7 @@
 | 🟦 Procedural programming      | 🟩 constructor        | ⬜ struct, record    | 🟦 Singleton             |
 | 🟩 Imperative programming      | 🟩 new                | ⬜ Mutable state     |                          |
 | 🟦 Structured programming      | 🟦 Static method      | ⬜ Immutable state   |                          |
-| 🟦 Non-structured programming  | 🟦 Method             | ⬜ Enum              |                          |
+| 🟦 Non-structured programming  | 🟩 Method             | ⬜ Enum              |                          |
 | 🟦 Functional programming      | 🟦 Async method       | 🟦 Linked list       |                          |
 | 🟦 Prototype-based programming | 🟦 Getters, Setters   | 🟦 Doubly list       |                          |
 | 🟩 Object-oriented programming | 🟦 Public fields      | 🟦 Unrolled list     |                          |
@@ -63,7 +63,7 @@
 |------------------------|--------------------------------|---------------------|--------------------------|
 | 🟦 Callback-last       | 🟦 Timers                      | 🟩 Event Loop       | ⬜ async.js library      |
 | 🟦 Error-first         | 🟦 setImmediate                | 🟦 Async error      | ⬜ Async composition     |
-| 🟦 Promise             | 🟦 nextTick                    | 🟦 try..catch       | ⬜ Rx.js                 |
+| 🟦 Promise             | 🟦 nextTick                    | 🟩 try..catch       | ⬜ Rx.js                 |
 | 🟦 Async function      | ⬜ AbortController             | 🟩 Non-blocking     | 🟦 Sequential async      |
 | 🟦 await               | 🟦 Promise unhandled rejection | 🟦 Async I/O        | 🟦 Parallel async        |
 | 🟦 Generator           | 🟦 Promise double resolve      | 🟦 Pattern Reactor  | 🟦 Promise.all           |

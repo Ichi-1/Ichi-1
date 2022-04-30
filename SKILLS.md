@@ -20,7 +20,7 @@
 | 🟦 flag              | 🟩 throw              | ⬜️ curry              | 🟨 iterator         | ⬜️ not invented here |
 | 🟩 lexical scope     | 🟩 try..catch         | 🟦 chaining           | 🟨 typed arrays     | 🟦 dead code         |
 | 🟩 code block        | 🟩 equality operators | 🟩 higher order       | 🟨 Map              | 🟦 unreachable code  |
-| 🟩 Object            | 🟩 logical operators  | 🟦 callback           | 🟨 Set              | 🟦 duplicate code    |
+| 🟩 Object            | 🟩 logical operators  | 🟩 callback           | 🟨 Set              | 🟦 duplicate code    |
 | 🟩 this              | 🟦 bitwise operators  | 🟦 listener           | ⬜️ weak collections | 🟦 exception         |
 | 🟩 arrow function    | 🟦 break, continue    | ⬜️ pipe               | ⬜️ Proxy            | 🟦 return early      |
 | 🟨 generator         | 🟩 switch             | ⬜️ memoize            | ⬜️ Symbol           | 🟦 linter            |
@@ -46,7 +46,7 @@
 | ⬜ Object-based programming    | 🟦 Private fields     | 🟦 Circular list     |                          |
 | 🟦 Generic programming         | 🟦 Field declarations | 🟦 Trees             |                          |
 | 🟦 Concurrent computing        | 🟦 Inheritance        | 🟦 Graphs            |                          |
-| 🟦 Asyncronous programming     | 🟦 Parent class       | 🟦 Functor           |                          |
+| 🟦 Asyncronous programming     | 🟩 Parent class       | 🟦 Functor           |                          |
 | 🟦 Parallel programming        | 🟦 Polymorphism       | 🟦 Functional object |                          |
 | 🟦 Reactive programming        | 🟦 Abstract class     | ⬜ Monad             |                          |
 | ⬜ FRP (Functional-reactive)   | 🟦 Interface          | 🟦 Generator         |                          |

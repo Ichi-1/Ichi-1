@@ -6,5 +6,5 @@
 <code>🧑‍💻 Languages: JavaScript, Python </code>
 <code>📦 Tech stack: node.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: @Yijiyman (https://[t](https://t.me/Yijiyman).me[t](https://t.me/Yijiyman)/Yij[t](https://t.me/Yijiyman)iyman)</code>[t](https://t.me/Yijiyman)
+<code>💬 telegram: </code>
 <code>📫 [your-email](mailto:your-email)</code>

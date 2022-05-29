@@ -49,8 +49,8 @@
 | 🟦 Asyncronous programming     | 🟩 Parent class       | 🟦 Functor           |                          |
 | 🟦 Parallel programming        | 🟦 Polymorphism       | 🟦 Functional object |                          |
 | 🟦 Reactive programming        | 🟦 Abstract class     | ⬜ Monad             |                          |
-| ⬜ FRP (Functional-reactive)   | 🟦 Interface          | 🟦 Generator         |                          |
-| 🟦 Automata-based programming  | 🟦 Encapsulation      | 🟦 Iterator          |                          |
+| ⬜ FRP (Functional-reactive)   | 🟦 Interface          | 🟩 Generator         |                          |
+| 🟦 Automata-based programming  | 🟦 Encapsulation      | 🟩 Iterator          |                          |
 | 🟦 Domain-specific languages   | ⬜ Hidden class       | 🟦 Async Iterator    |                          |
 | 🟦 Multi-paradigm programming  | ⬜ Object form        |                      |                          |
 | ⬜ Metaprogramming             | 🟦 instance           |                      |                          |
@@ -65,7 +65,7 @@
 | 🟦 Error-first         | 🟦 setImmediate                | 🟦 Async error      | ⬜ Async composition     |
 | 🟦 Promise             | 🟦 nextTick                    | 🟩 try..catch       | ⬜ Rx.js                 |
 | 🟦 Async function      | ⬜ AbortController             | 🟩 Non-blocking     | 🟦 Sequential async      |
-| 🟦 await               | 🟦 Promise unhandled rejection | 🟦 Async I/O        | 🟦 Parallel async        |
+| 🟦 await               | 🟦 Promise unhandled rejection | 🟩 Async I/O        | 🟦 Parallel async        |
 | 🟦 Generator           | 🟦 Promise double resolve      | 🟦 Pattern Reactor  | 🟦 Promise.all           |
 | 🟦 Async Generator     | 🟦 child_process               | ⬜ CAS operations   | 🟦 Promise.allSettled    |
 | 🟦 Async Iterator      | 🟦 worker_threads              | ⬜ epoll            | 🟦 Promise.race          |

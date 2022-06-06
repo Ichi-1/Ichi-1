@@ -6,7 +6,7 @@
 
 | Syntax               | Statements            | Functions             | Data structures     | Process & style      |
 |----------------------|-----------------------|-----------------------|---------------------|----------------------|
-| 🟩 value             | 🟩 if                 | 🟩 recursion          | 🟩 array            | 🟦 refactoring       |
+| 🟩 value             | 🟩 if                 | 🟩 recursion          | 🟩 array            | 🟩 refactoring       |
 | 🟩 identifier        | 🟩 loops              | 🟩 function           | 🟩 instance         | 🟦 code review       |
 | 🟩 variable          | 🟩 assignment         | 🟩 return             | 🟩 object           | 🟦 antipatterns      |
 | 🟩 constant          | 🟩 prototype          | 🟦 signature          | 🟩 collection       | 🟩 paradigm          |
@@ -45,15 +45,15 @@
 | 🟩 Object-oriented programming | 🟦 Public fields      | 🟦 Unrolled list     |                          |
 | ⬜ Object-based programming    | 🟦 Private fields     | 🟦 Circular list     |                          |
 | 🟦 Generic programming         | 🟦 Field declarations | 🟦 Trees             |                          |
-| 🟦 Concurrent computing        | 🟦 Inheritance        | 🟦 Graphs            |                          |
+| 🟦 Concurrent computing        | 🟩 Inheritance        | 🟦 Graphs            |                          |
 | 🟦 Asyncronous programming     | 🟩 Parent class       | 🟦 Functor           |                          |
-| 🟦 Parallel programming        | 🟦 Polymorphism       | 🟦 Functional object |                          |
+| 🟦 Parallel programming        | 🟩 Polymorphism       | 🟦 Functional object |                          |
 | 🟦 Reactive programming        | 🟦 Abstract class     | ⬜ Monad             |                          |
 | ⬜ FRP (Functional-reactive)   | 🟦 Interface          | 🟩 Generator         |                          |
-| 🟦 Automata-based programming  | 🟦 Encapsulation      | 🟩 Iterator          |                          |
+| 🟦 Automata-based programming  | 🟩 Encapsulation      | 🟩 Iterator          |                          |
 | 🟦 Domain-specific languages   | ⬜ Hidden class       | 🟦 Async Iterator    |                          |
 | 🟦 Multi-paradigm programming  | ⬜ Object form        |                      |                          |
-| ⬜ Metaprogramming             | 🟦 instance           |                      |                          |
+| ⬜ Metaprogramming             | 🟩 instance           |                      |                          |
 | ⬜ Actor model                 | ⬜ Introspection      |                      |                          |
 |                                | ⬜ Reflection         |                      |                          |
 
@@ -64,8 +64,8 @@
 | 🟦 Callback-last       | 🟦 Timers                      | 🟩 Event Loop       | ⬜ async.js library      |
 | 🟦 Error-first         | 🟦 setImmediate                | 🟦 Async error      | ⬜ Async composition     |
 | 🟦 Promise             | 🟦 nextTick                    | 🟩 try..catch       | ⬜ Rx.js                 |
-| 🟦 Async function      | ⬜ AbortController             | 🟩 Non-blocking     | 🟦 Sequential async      |
-| 🟦 await               | 🟦 Promise unhandled rejection | 🟩 Async I/O        | 🟦 Parallel async        |
+| 🟩 Async function      | ⬜ AbortController             | 🟩 Non-blocking     | 🟦 Sequential async      |
+| 🟩 await               | 🟦 Promise unhandled rejection | 🟩 Async I/O        | 🟦 Parallel async        |
 | 🟦 Generator           | 🟦 Promise double resolve      | 🟦 Pattern Reactor  | 🟦 Promise.all           |
 | 🟦 Async Generator     | 🟦 child_process               | ⬜ CAS operations   | 🟦 Promise.allSettled    |
 | 🟦 Async Iterator      | 🟦 worker_threads              | ⬜ epoll            | 🟦 Promise.race          |

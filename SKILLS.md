@@ -17,7 +17,7 @@
 | 🟩 type              | 🟩 for..in            | 🟩 side effects       | 🟩 deque            | 🟦 decomposition     |
 | 🟩 primitive types   | 🟨 for..of            | 🟩 closure            | 🟦 serialization    | ⬜️ spaghetti         |
 | 🟩 reference         | 🟨 for await          | 🟦 partial            | 🟦 mixin, extend    | ⬜️ silver bullet     |
-| 🟦 flag              | 🟩 throw              | ⬜️ curry              | 🟨 iterator         | ⬜️ not invented here |
+| 🟦 flag              | 🟩 throw              | ⬜️ curry              | 🟩 iterator         | ⬜️ not invented here |
 | 🟩 lexical scope     | 🟩 try..catch         | 🟦 chaining           | 🟨 typed arrays     | 🟦 dead code         |
 | 🟩 code block        | 🟩 equality operators | 🟩 higher order       | 🟩 Map              | 🟦 unreachable code  |
 | 🟩 Object            | 🟩 logical operators  | 🟩 callback           | 🟩 Set              | 🟦 duplicate code    |
@@ -26,8 +26,8 @@
 | 🟩 generator         | 🟩 switch             | ⬜️ memoize            | ⬜️ Symbol           | 🟩 linter            |
 | 🟩 async function    | 🟨 new Error          | 🟦 factory            | 🟨 string parsing   | ⬜️ prettier          |
 | 🟨 call, bind, apply |                       | 🟦 pool               | 🟨 timers           | 🟦 unittest          |
-| 🟩 Array             |                       | 🟦 wrapper            | 🟨 EventEmitter     | 🟩 git               |
-| 🟩 instanceof        |                       | 🟨 default parameters | 🟩 RegExp           | 🟩 github            |
+| 🟩 Array             |                       | 🟩 wrapper            | 🟨 EventEmitter     | 🟩 git               |
+| 🟩 instanceof        |                       | 🟩 default parameters | 🟩 RegExp           | 🟩 github            |
 | 🟩 ...spread         |                       |                       | 🟩 global           | 🟩 node.js           |
 | 🟩 ...rest           |                       |                       | 🟩 undefined        | 🟩 npm               |
 | 🟩 typeof            |                       |                       | 🟩 null             |                      |
@@ -66,7 +66,7 @@
 | 🟦 Promise             | 🟦 nextTick                    | 🟩 try..catch       | ⬜ Rx.js                 |
 | 🟩 Async function      | ⬜ AbortController             | 🟩 Non-blocking     | 🟦 Sequential async      |
 | 🟩 await               | 🟦 Promise unhandled rejection | 🟩 Async I/O        | 🟦 Parallel async        |
-| 🟦 Generator           | 🟦 Promise double resolve      | 🟦 Pattern Reactor  | 🟦 Promise.all           |
+| 🟩 Generator           | 🟦 Promise double resolve      | 🟦 Pattern Reactor  | 🟦 Promise.all           |
 | 🟦 Async Generator     | 🟦 child_process               | ⬜ CAS operations   | 🟦 Promise.allSettled    |
 | 🟦 Async Iterator      | 🟦 worker_threads              | ⬜ epoll            | 🟦 Promise.race          |
 | 🟦 Thenable            | 🟦 Atomics                     | ⬜ kqueue           | 🟦 Promise.any           |

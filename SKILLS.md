@@ -7,7 +7,7 @@
 | Syntax               | Statements            | Functions             | Data structures     | Process & style      |
 |----------------------|-----------------------|-----------------------|---------------------|----------------------|
 | 🟩 value             | 🟩 if                 | 🟩 recursion          | 🟩 array            | 🟩 refactoring       |
-| 🟩 identifier        | 🟩 loops              | 🟩 function           | 🟩 instance         | 🟦 code review       |
+| 🟩 identifier        | 🟩 loops              | 🟩 function           | 🟩 instance         | 🟩 code review       |
 | 🟩 variable          | 🟩 assignment         | 🟩 return             | 🟩 object           | 🟦 antipatterns      |
 | 🟩 constant          | 🟩 prototype          | 🟦 signature          | 🟩 collection       | 🟩 paradigm          |
 | 🟩 scalar            | 🟩 class              | 🟩 argument           | 🟩 hash table       | 🟩 algorithm         |
@@ -87,7 +87,7 @@
 |----------------------|------------------------------|-------------------|------------------|----------------------|
 | 🟩 Nonblocking I/O   | 🟦 I/O bound tasks           | 🟩 HTTP(S)        | 🟦 Logging       | 🟦 Memory leaks      |
 | 🟩 Event Loop        | 🟦 CPU bound tasks           | 🟦 TCP/SSL        | 🟦 Testing       | 🟦 Resource leaks    |
-| 🟦 commonjs          | 🟦 Memory bound tasks        | 🟦 UDP            | ⬜ CI/CD         | 🟦 Blocking code     |
+| 🟦 commonjs          | 🟦 Memory bound tasks        | 🟩 UDP            | ⬜ CI/CD         | 🟦 Blocking code     |
 | 🟦 ECMA modules      | 🟦 Multilayer approach       | 🟦 TLS            | 🟩 Readable      | 🟦 Data race         |
 | 🟦 Network API       | 🟦 Separation of concerns    | 🟦 Websocket      | 🟩 Writable      | 🟦 Graceful Shutdown |
 | ⬜ Addons            | 🟦 Inversion of control      | ⬜ SSE            | 🟩 Transform     | 🟦 Dependencies      |
@@ -97,11 +97,11 @@
 | 🟩 node_modules      | 🟦 GoF for JS and Node.js    | 🟦 RPC            | 🟦 Inspector     |                      |
 | 🟩 package.json      | ⬜ Distributed systems       | 🟩 Routing        | 🟦 Reliability   |                      |
 | 🟦 vm isolation      | ⬜ Highload applications     | 🟦 IP sticky      | 🟦 Quality       |                      |
-| 🟦 command line args | 🟦 DDD                       | 🟦 DoS            | 🟦 Availability  |                      |
-| ⬜ Node.js CLI       | 🟦 Clean architecture        | 🟦 DDoS           | 🟦 Flexibility   |                      |
+| 🟦 command line args | 🟦 DDD                       | 🟩 DoS            | 🟦 Availability  |                      |
+| ⬜ Node.js CLI       | 🟦 Clean architecture        | 🟩 DDoS           | 🟦 Flexibility   |                      |
 | 🟩 Streams           | 🟦 Domain in the middle      | 🟦 XSS            |                  |                      |
 | 🟦 Clustering        | 🟦 Message Queue             | 🟦 Path traversal |                  |                      |
-| ⬜ Load balancing    | 🟦 Transport-agnostic server | 🟦 CSRF           |                  |                      |
+| ⬜ Load balancing    | 🟦 Transport-agnostic server | 🟩 CSRF           |                  |                      |
 | ⬜ Serverless clouds | 🟦 Framework-agnostic app    | 🟩 DNS            |                  |                      |
 | ⬜ FaaS clouds       | ⬜ Interactive applications  | 🟦 Fetch          |                  |                      |
 | 🟦 Debugging node.js | ⬜ Real-time applications    | 🟦 zlib           |                  |                      |

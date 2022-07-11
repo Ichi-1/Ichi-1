@@ -6,6 +6,6 @@
 <code>🧑‍💻 Languages: Python, JavaScript, SQL </code><br>
 <code>📦 Tech stack: 
   Django, FastAPI, PostgreSQL, Docker
-</code>
-<code>💬 telegram: </code>
+</code><br>
+<code>💬 telegram: </code><br>
 <code>📫 [your-email](mailto:your-email)</code>

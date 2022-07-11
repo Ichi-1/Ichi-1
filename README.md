@@ -5,7 +5,7 @@
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
 <code>🧑‍💻 Languages: Python, JavaScript, SQL </code><br>
 <code>📦 Tech stack: 
-  Django, FastAPI, PostgreSQL, Docker
+  Django, FastAPI, PostgreSQL, Docker, Postman
 </code><br>
 <code>💬 telegram: </code><br>
 <code>📫 [your-email](mailto:your-email)</code>

@@ -1,11 +1,23 @@
 <code>👷 Speciality:Backend</code><br>
-<code>💡 [Skills](SKILLS.md)</code>
-<code>🧻 [Projects](PROJECTS.md)</code>
-<code>📢 [Public talks: 0](TALKS.md)</code>
-<code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
-<code>🧑‍💻 Languages: Python, JavaScript, SQL </code><br>
-<code>📦 Tech stack: 
-  Django, FastAPI, PostgreSQL, Docker, Postman
-</code><br>
-<code>💬 telegram: </code><br>
-<code>📫 [your-email](mailto:your-email)</code>
+<code>💡 [Skills](SKILLS.md)</code><br>
+<code>💬 [Telegram](https://t.me/yijiyman)</code><br>
+<code>📫 [Email](mailto:al.chumakov96@gmail.com)</code>
+
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- Languages:
+	 - ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+	 - ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&style=flat)
+
+- Web Frameworks:
+	-  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+	- ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+	-	![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+
+- Databases:
+	-	![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+	- ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- Deployment:
+  -	![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  -	![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)

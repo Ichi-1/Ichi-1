@@ -19,6 +19,7 @@
 - Deployment:<br>
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
 ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=Heroku)
-- Version control:<br>
+- Other Tools:<br>
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)
 

@@ -6,18 +6,16 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- Languages:
-	 - ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-	 - ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&style=flat)
-
-- Web Frameworks:
-	-  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-	- ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
-	-	![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-
-- Databases:
-	-	![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-	- ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- Deployment:
-  -	![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  -	![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
+- Languages:<br>
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&style=flat)
+- Web Frameworks:<br>
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+- Databases:<br>
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- Deployment:<br>
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)

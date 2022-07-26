@@ -1,6 +1,6 @@
-<code>👷 Speciality:Backend</code><br>
-<code>💡 [Skills](SKILLS.md)</code><br>
-<code>💬 [Telegram](https://t.me/yijiyman)</code><br>
+<code>👷 Speciality:Backend</code>
+<code>💡 [Skills](SKILLS.md)</code>
+<code>💬 [Telegram](https://t.me/yijiyman)</code>
 <code>📫 [Email](mailto:al.chumakov96@gmail.com)</code>
 
 

@@ -15,8 +15,8 @@
 | 🟩 expression        | 🟩 do..while          | 🟩 pure function      | 🟩 queue            | 🟦 hardcode          |
 | 🟩 heap              | 🟩 for                | 🟩 lambda             | 🟩 stack            | 🟩 complexity        |
 | 🟩 type              | 🟩 for..in            | 🟩 side effects       | 🟩 deque            | 🟦 decomposition     |
-| 🟩 primitive types   | 🟨 for..of            | 🟩 closure            | 🟦 serialization    | ⬜️ spaghetti         |
-| 🟩 reference         | 🟨 for await          | 🟦 partial            | 🟦 mixin, extend    | ⬜️ silver bullet     |
+| 🟩 primitive types   | 🟨 for..of            | 🟩 closure            | 🟩 serialization    | ⬜️ spaghetti         |
+| 🟩 reference         | 🟨 for await          | 🟦 partial            | 🟩 mixin, extend    | ⬜️ silver bullet     |
 | 🟦 flag              | 🟩 throw              | ⬜️ curry              | 🟩 iterator         | ⬜️ not invented here |
 | 🟩 lexical scope     | 🟩 try..catch         | 🟦 chaining           | 🟨 typed arrays     | 🟦 dead code         |
 | 🟩 code block        | 🟩 equality operators | 🟩 higher order       | 🟩 Map              | 🟦 unreachable code  |
@@ -36,14 +36,14 @@
 
 | Theory                         | OOP basics            | Abstractions         | Patterns                 |
 |--------------------------------|-----------------------|----------------------|--------------------------|
-| 🟦 Procedural programming      | 🟩 constructor        | ⬜ struct, record    | 🟦 Singleton             |
+| 🟦 Procedural programming      | 🟩 constructor        | ⬜ struct, record    | 🟩 Singleton             |
 | 🟩 Imperative programming      | 🟩 new                | ⬜ Mutable state     |                          |
 | 🟦 Structured programming      | 🟦 Static method      | ⬜ Immutable state   |                          |
 | 🟦 Non-structured programming  | 🟩 Method             | ⬜ Enum              |                          |
 | 🟩 Functional programming      | 🟦 Async method       | 🟦 Linked list       |                          |
 | 🟦 Prototype-based programming | 🟦 Getters, Setters   | 🟦 Doubly list       |                          |
-| 🟩 Object-oriented programming | 🟦 Public fields      | 🟦 Unrolled list     |                          |
-| ⬜ Object-based programming    | 🟦 Private fields     | 🟦 Circular list     |                          |
+| 🟩 Object-oriented programming | 🟩 Public fields      | 🟦 Unrolled list     |                          |
+| ⬜ Object-based programming    | 🟩 Private fields     | 🟦 Circular list     |                          |
 | 🟦 Generic programming         | 🟦 Field declarations | 🟦 Trees             |                          |
 | 🟦 Concurrent computing        | 🟩 Inheritance        | 🟦 Graphs            |                          |
 | 🟩 Asyncronous programming     | 🟩 Parent class       | 🟦 Functor           |                          |
@@ -98,7 +98,7 @@
 | 🟩 package.json      | ⬜ Distributed systems       | 🟩 Routing        | 🟦 Reliability   |                      |
 | 🟦 vm isolation      | ⬜ Highload applications     | 🟦 IP sticky      | 🟦 Quality       |                      |
 | 🟦 command line args | 🟦 DDD                       | 🟩 DoS            | 🟦 Availability  |                      |
-| ⬜ Node.js CLI       | 🟦 Clean architecture        | 🟩 DDoS           | 🟦 Flexibility   |                      |
+| 🟩 Node.js CLI       | 🟦 Clean architecture        | 🟩 DDoS           | 🟦 Flexibility   |                      |
 | 🟩 Streams           | 🟦 Domain in the middle      | 🟦 XSS            |                  |                      |
 | 🟦 Clustering        | 🟦 Message Queue             | 🟦 Path traversal |                  |                      |
 | ⬜ Load balancing    | 🟦 Transport-agnostic server | 🟩 CSRF           |                  |                      |

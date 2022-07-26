@@ -9,7 +9,7 @@
 - Languages:<br>
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&style=flat)
-- Web Frameworks:<br>
+- Frameworks:<br>
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
@@ -19,6 +19,6 @@
 - Deployment:<br>
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
 ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=Heroku)
--Version control:<br>
+- Version control:<br>
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 

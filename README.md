@@ -23,4 +23,5 @@
 - Other Tools:<br>
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)
+![Celery](https://img.shields.io/badge/-Celery-333333?style=flat&logo=Celery)
 

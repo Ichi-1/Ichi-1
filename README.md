@@ -18,6 +18,7 @@
 - Databases:<br>
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=Redis)
 - Deployment:<br>
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
 ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=Heroku)

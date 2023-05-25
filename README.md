@@ -22,9 +22,9 @@
 - DevOps:<br>
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
 ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=GitLab)
-![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=Heroku)
 ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=Grafana)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=Prometheus)
+![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=Nginx)
 - Other Tools:<br>
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)

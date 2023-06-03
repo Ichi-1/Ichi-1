@@ -14,7 +14,6 @@
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
 ![Celery](https://img.shields.io/badge/-Celery-333333?style=flat&logo=Celery)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - Databases:<br>
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)

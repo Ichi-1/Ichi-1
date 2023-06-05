@@ -1,4 +1,3 @@
-<code>👷 Speciality:Backend</code>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>💬 [Telegram](https://t.me/al_chumakov)</code>
 <code>📫 [Email](mailto:al.chumakov96@gmail.com)</code>

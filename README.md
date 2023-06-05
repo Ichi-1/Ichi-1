@@ -1,8 +1,7 @@
 <code>👷 Speciality:Backend</code>
 <code>💡 [Skills](SKILLS.md)</code>
-<code>💬 [Telegram](https://t.me/yijiyman)</code>
+<code>💬 [Telegram](https://t.me/al_chumakov)</code>
 <code>📫 [Email](mailto:al.chumakov96@gmail.com)</code>
-
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -20,12 +19,9 @@
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=Redis)
 - DevOps:<br>
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
-![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=GitLab)
 ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=Grafana)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=Prometheus)
 ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=Nginx)
-- Other Tools:<br>
+- GitOps:<br>
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)
-
-
+![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=GitLab)

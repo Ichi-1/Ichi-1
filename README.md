@@ -14,7 +14,6 @@
 ![Celery](https://img.shields.io/badge/-Celery-333333?style=flat&logo=Celery)
 - Databases:<br>
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=Redis)
 - DevOps:<br>
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)

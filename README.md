@@ -5,8 +5,9 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - Languages:<br>
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&style=flat)
+![Golang](https://img.shields.io/badge/-Go-333333?style=flat&logo=go&style=flat)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&style=flat)
 - Frameworks:<br>
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)

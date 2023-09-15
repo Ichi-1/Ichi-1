@@ -19,7 +19,6 @@
 - DevOps:<br>
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
 ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=Terraform)
-![Portainer](https://img.shields.io/badge/-Portainer-333333?style=flat&logo=Portainer)
 ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=Grafana)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=Prometheus)
 ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=Nginx)

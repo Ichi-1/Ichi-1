@@ -21,5 +21,5 @@
 ![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=Prometheus)
 ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=Nginx)
 - GitOps:<br>
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=GitLab)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=Bitbucket)

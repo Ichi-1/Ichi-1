@@ -23,7 +23,6 @@
 
 - Orchestration: <br>
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
-![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=Terraform)
 ![K8s](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes)
 
 - Infrastructure as Code:<br>

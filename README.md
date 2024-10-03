@@ -16,7 +16,7 @@
 - Message Brokers:<br>
 ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=apachekafka)
 ![RabbitMQ](https://img.shields.io/badge/-Rabbitmq-333333?style=flat&logo=rabbitmq)
-- Orchestration: <br>
+- Containers: <br>
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
 ![K8s](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes)
 - Infrastructure as Code:<br>

@@ -10,6 +10,7 @@
 - Databases:<br>
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=Redis)
+![Memcached](https://img.shields.io/badge/-Memcached-333333?style=flat&logo=Memcached)
 - Observability:<br>
 ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=Grafana)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=Prometheus)

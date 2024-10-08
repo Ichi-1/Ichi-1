@@ -1,5 +1,5 @@
 <code>💡 [Skills](SKILLS.md)</code>
-<code>💬 [Telegram](https://t.me/al_chumakov)</code>
+<code>💬 [Telegram](https://t.me/imtwod)</code>
 <code>📫 [Email](mailto:al.chumakov96@gmail.com)</code>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
